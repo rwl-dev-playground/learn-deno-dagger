@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "npm:graphql-tag": "graphql-tag",
+    "npm:graphql-request": "graphql-request"
+  }
+}
